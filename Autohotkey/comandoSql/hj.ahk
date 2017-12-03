@@ -1,0 +1,3 @@
+::hj::
+  send GETDATE()
+  Return
